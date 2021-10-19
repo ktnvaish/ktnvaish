@@ -1,5 +1,5 @@
 <h1 align="center">Hi, myself <a href="https://ktnvaish.github.io/website/">Ketan Vaish</a> !</h1>
-<h3 align="center">I am currently pursuing BE in Information Science at RV College of Engineering, Bengaluru. I have had a rich experience in a wide range of technical domain during my college life, from Web Development to Machine Learning to Quantum Computing. I have a research paper published in Springer under my name. Since I started problem solving using DS&A, I love to be engrossed in same for major part of my time.</h3>
+<h3 align="center">I am currently pursuing BE in Information Science at RV College of Engineering, Bengaluru. I have had a rich experience in a wide range of technical domain during my college life, from Web Development to Machine Learning to Quantum Computing.</h3>
 <!-- <br> -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=satviktiwari" alt="satviktiwari" /> </p> -->
 <h3 align="center">My Technical Skills:</h3>
